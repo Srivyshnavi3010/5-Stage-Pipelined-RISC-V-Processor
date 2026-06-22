@@ -348,5 +348,6 @@ This project provided practical experience in:
 
 **Poralla Sri Vyshnavi**
 
-B.Tech, Electronics and Electrical Communication Engineering
+Dual Degree (B.Tech + M.Tech) 
+Electronics and Electrical Communication Engineering
 Indian Institute of Technology Kharagpur
